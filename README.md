@@ -7,4 +7,4 @@
 4. 「Save」をクリック  
 
 ✅ 数十秒後、次のように表示されます：  
-**Your site is live at:** `https://ユーザー名.github.io/リポジトリ名/`
+**Your site is live at:** `https://ユーザー名.github.io/TACT-AIM-html/`
